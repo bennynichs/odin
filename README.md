@@ -1,1 +1,1 @@
-Practing git in my space time!
+Practicing git in my space time!
